@@ -1,0 +1,84 @@
+12/30/2021 07:26:04 PM: -SeleniumDriver - INFO: Element with Locator: P101_USERNAME and Locator Type: id found.
+12/30/2021 07:26:05 PM: -SeleniumDriver - INFO: Sent data on element with locator: P101_USERNAME locatorType: id
+12/30/2021 07:26:05 PM: -SeleniumDriver - INFO: Element with Locator: P101_PASSWORD and Locator Type: id found.
+12/30/2021 07:26:05 PM: -SeleniumDriver - INFO: Sent data on element with locator: P101_PASSWORD locatorType: id
+12/30/2021 07:26:05 PM: -SeleniumDriver - INFO: Element with Locator: P101_LOGIN and Locator Type: id found.
+12/30/2021 07:26:05 PM: -SeleniumDriver - INFO: Clicked on element with locator: P101_LOGIN locatorType: id
+12/30/2021 07:26:16 PM: -SeleniumDriver - INFO: Element list FOUND with locator: //a[text()='Home'] and locatorType: xpath
+12/30/2021 07:26:16 PM: -SeleniumDriver - INFO: Element present with locator: //a[text()='Home'] locatorType: xpath
+12/30/2021 07:26:16 PM: -SeleniumDriver - INFO: Element with Locator: //h3[text()='Administration'] and Locator Type: xpath found.
+12/30/2021 07:26:18 PM: -SeleniumDriver - INFO: Clicked on element with locator: //h3[text()='Administration'] locatorType: xpath
+12/30/2021 07:26:18 PM: -SeleniumDriver - INFO: Element with Locator: //h3[contains(text(),'Global Setup')] and Locator Type: xpath found.
+12/30/2021 07:26:18 PM: -SeleniumDriver - INFO: Clicked on element with locator: //h3[contains(text(),'Global Setup')] locatorType: xpath
+12/30/2021 07:26:18 PM: -SeleniumDriver - INFO: Element with Locator: //span[contains(text(),'Users')] and Locator Type: xpath found.
+12/30/2021 07:26:22 PM: -SeleniumDriver - INFO: Clicked on element with locator: //span[contains(text(),'Users')] locatorType: xpath
+12/30/2021 07:26:23 PM: -SeleniumDriver - INFO: Element not found
+12/30/2021 07:26:50 PM: -SeleniumDriver - INFO: Element with Locator: P101_USERNAME and Locator Type: id found.
+12/30/2021 07:26:50 PM: -SeleniumDriver - INFO: Sent data on element with locator: P101_USERNAME locatorType: id
+12/30/2021 07:26:50 PM: -SeleniumDriver - INFO: Element with Locator: P101_PASSWORD and Locator Type: id found.
+12/30/2021 07:26:50 PM: -SeleniumDriver - INFO: Sent data on element with locator: P101_PASSWORD locatorType: id
+12/30/2021 07:26:50 PM: -SeleniumDriver - INFO: Element with Locator: P101_LOGIN and Locator Type: id found.
+12/30/2021 07:26:50 PM: -SeleniumDriver - INFO: Clicked on element with locator: P101_LOGIN locatorType: id
+12/30/2021 07:27:02 PM: -SeleniumDriver - INFO: Element list FOUND with locator: //a[text()='Home'] and locatorType: xpath
+12/30/2021 07:27:02 PM: -SeleniumDriver - INFO: Element present with locator: //a[text()='Home'] locatorType: xpath
+12/30/2021 07:27:02 PM: -SeleniumDriver - INFO: Element with Locator: //h3[text()='Administration'] and Locator Type: xpath found.
+12/30/2021 07:27:03 PM: -SeleniumDriver - INFO: Clicked on element with locator: //h3[text()='Administration'] locatorType: xpath
+12/30/2021 07:27:03 PM: -SeleniumDriver - INFO: Element with Locator: //h3[contains(text(),'Global Setup')] and Locator Type: xpath found.
+12/30/2021 07:27:03 PM: -SeleniumDriver - INFO: Clicked on element with locator: //h3[contains(text(),'Global Setup')] locatorType: xpath
+12/30/2021 07:27:03 PM: -SeleniumDriver - INFO: Element with Locator: //span[contains(text(),'Users')] and Locator Type: xpath found.
+12/30/2021 07:27:08 PM: -SeleniumDriver - INFO: Clicked on element with locator: //span[contains(text(),'Users')] locatorType: xpath
+12/30/2021 07:27:08 PM: -SeleniumDriver - INFO: Element not found
+12/30/2021 07:27:09 PM: -SeleniumDriver - INFO: Element with Locator: REG_USR_ig_toolbar_BT_CU and Locator Type: id found.
+12/30/2021 07:27:09 PM: -SeleniumDriver - INFO: Clicked on element with locator: REG_USR_ig_toolbar_BT_CU locatorType: id
+12/30/2021 07:27:09 PM: -SeleniumDriver - INFO: Element with Locator: //iframe and Locator Type: xpath found.
+12/30/2021 07:27:10 PM: -SeleniumDriver - INFO: Element with Locator: P400160_USER_ID and Locator Type: id found.
+12/30/2021 07:27:10 PM: -SeleniumDriver - INFO: Sent data on element with locator: P400160_USER_ID locatorType: id
+12/30/2021 07:27:10 PM: -SeleniumDriver - INFO: Element with Locator: P400160_PASSWORD and Locator Type: id found.
+12/30/2021 07:27:10 PM: -SeleniumDriver - INFO: Sent data on element with locator: P400160_PASSWORD locatorType: id
+12/30/2021 07:27:10 PM: -SeleniumDriver - INFO: Element with Locator: P400160_FIRST_NAME and Locator Type: id found.
+12/30/2021 07:27:11 PM: -SeleniumDriver - INFO: Sent data on element with locator: P400160_FIRST_NAME locatorType: id
+12/30/2021 07:27:11 PM: -SeleniumDriver - INFO: Element with Locator: P400160_LAST_NAME and Locator Type: id found.
+12/30/2021 07:27:11 PM: -SeleniumDriver - INFO: Sent data on element with locator: P400160_LAST_NAME locatorType: id
+12/30/2021 07:27:11 PM: -SeleniumDriver - INFO: Element with Locator: P400160_COMPANY and Locator Type: id found.
+12/30/2021 07:27:11 PM: -SeleniumDriver - INFO: Sent data on element with locator: P400160_COMPANY locatorType: id
+12/30/2021 07:27:11 PM: -SeleniumDriver - INFO: Element with Locator: P400160_DEPARTMENT and Locator Type: id found.
+12/30/2021 07:27:11 PM: -SeleniumDriver - INFO: Sent data on element with locator: P400160_DEPARTMENT locatorType: id
+12/30/2021 07:27:11 PM: -SeleniumDriver - INFO: Element with Locator: P400160_TELEPHONE and Locator Type: id found.
+12/30/2021 07:27:11 PM: -SeleniumDriver - INFO: Sent data on element with locator: P400160_TELEPHONE locatorType: id
+12/30/2021 07:27:11 PM: -SeleniumDriver - INFO: Element with Locator: CREATE_USER and Locator Type: id found.
+12/30/2021 07:27:12 PM: -SeleniumDriver - INFO: Clicked on element with locator: CREATE_USER locatorType: id
+12/30/2021 07:27:12 PM: -SeleniumDriver - INFO: Element not found
+12/30/2021 07:46:37 PM: -SeleniumDriver - INFO: Element with Locator: P101_USERNAME and Locator Type: id found.
+12/30/2021 07:46:37 PM: -SeleniumDriver - INFO: Sent data on element with locator: P101_USERNAME locatorType: id
+12/30/2021 07:46:37 PM: -SeleniumDriver - INFO: Element with Locator: P101_PASSWORD and Locator Type: id found.
+12/30/2021 07:46:37 PM: -SeleniumDriver - INFO: Sent data on element with locator: P101_PASSWORD locatorType: id
+12/30/2021 07:46:37 PM: -SeleniumDriver - INFO: Element with Locator: P101_LOGIN and Locator Type: id found.
+12/30/2021 07:46:37 PM: -SeleniumDriver - INFO: Clicked on element with locator: P101_LOGIN locatorType: id
+12/30/2021 07:46:46 PM: -SeleniumDriver - INFO: Element list FOUND with locator: //a[text()='Home'] and locatorType: xpath
+12/30/2021 07:46:46 PM: -SeleniumDriver - INFO: Element present with locator: //a[text()='Home'] locatorType: xpath
+12/30/2021 07:46:46 PM: -SeleniumDriver - INFO: Element with Locator: //h3[text()='Administration'] and Locator Type: xpath found.
+12/30/2021 07:46:47 PM: -SeleniumDriver - INFO: Clicked on element with locator: //h3[text()='Administration'] locatorType: xpath
+12/30/2021 07:46:47 PM: -SeleniumDriver - INFO: Element with Locator: //h3[contains(text(),'Global Setup')] and Locator Type: xpath found.
+12/30/2021 07:46:48 PM: -SeleniumDriver - INFO: Clicked on element with locator: //h3[contains(text(),'Global Setup')] locatorType: xpath
+12/30/2021 07:46:48 PM: -SeleniumDriver - INFO: Element with Locator: //span[contains(text(),'Users')] and Locator Type: xpath found.
+12/30/2021 07:46:51 PM: -SeleniumDriver - INFO: Clicked on element with locator: //span[contains(text(),'Users')] locatorType: xpath
+12/30/2021 07:46:51 PM: -SeleniumDriver - INFO: Element not found
+12/30/2021 07:46:52 PM: -SeleniumDriver - INFO: Element with Locator: REG_USR_ig_toolbar_BT_CU and Locator Type: id found.
+12/30/2021 07:46:52 PM: -SeleniumDriver - INFO: Clicked on element with locator: REG_USR_ig_toolbar_BT_CU locatorType: id
+12/30/2021 07:46:52 PM: -SeleniumDriver - INFO: Element with Locator: //iframe and Locator Type: xpath found.
+12/30/2021 07:46:53 PM: -SeleniumDriver - INFO: Element with Locator: P400160_USER_ID and Locator Type: id found.
+12/30/2021 07:46:53 PM: -SeleniumDriver - INFO: Sent data on element with locator: P400160_USER_ID locatorType: id
+12/30/2021 07:46:53 PM: -SeleniumDriver - INFO: Element with Locator: P400160_PASSWORD and Locator Type: id found.
+12/30/2021 07:46:53 PM: -SeleniumDriver - INFO: Sent data on element with locator: P400160_PASSWORD locatorType: id
+12/30/2021 07:46:53 PM: -SeleniumDriver - INFO: Element with Locator: P400160_FIRST_NAME and Locator Type: id found.
+12/30/2021 07:46:53 PM: -SeleniumDriver - INFO: Sent data on element with locator: P400160_FIRST_NAME locatorType: id
+12/30/2021 07:46:53 PM: -SeleniumDriver - INFO: Element with Locator: P400160_LAST_NAME and Locator Type: id found.
+12/30/2021 07:46:53 PM: -SeleniumDriver - INFO: Sent data on element with locator: P400160_LAST_NAME locatorType: id
+12/30/2021 07:46:53 PM: -SeleniumDriver - INFO: Element with Locator: P400160_COMPANY and Locator Type: id found.
+12/30/2021 07:46:53 PM: -SeleniumDriver - INFO: Sent data on element with locator: P400160_COMPANY locatorType: id
+12/30/2021 07:46:53 PM: -SeleniumDriver - INFO: Element with Locator: P400160_DEPARTMENT and Locator Type: id found.
+12/30/2021 07:46:53 PM: -SeleniumDriver - INFO: Sent data on element with locator: P400160_DEPARTMENT locatorType: id
+12/30/2021 07:46:53 PM: -SeleniumDriver - INFO: Element with Locator: P400160_TELEPHONE and Locator Type: id found.
+12/30/2021 07:46:53 PM: -SeleniumDriver - INFO: Sent data on element with locator: P400160_TELEPHONE locatorType: id
+12/30/2021 07:46:53 PM: -SeleniumDriver - INFO: Element with Locator: CREATE_USER and Locator Type: id found.
+12/30/2021 07:46:53 PM: -SeleniumDriver - INFO: Clicked on element with locator: CREATE_USER locatorType: id
